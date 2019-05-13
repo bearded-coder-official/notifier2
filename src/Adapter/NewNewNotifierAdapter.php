@@ -4,7 +4,7 @@ namespace NtSchool\Notifier\Adapter;
 
 use NtSchool\Notifier\NotifierInterface;
 
-final class NewNotifierAdapter implements NotifierInterface
+final class NewNewNotifierAdapter implements NotifierInterface
 {
     public function notify(string $message)
     {
